@@ -1,8 +1,8 @@
 class Cliradio < Formula
   desc "Terminal-Player für Radiostreams und YouTube-Musik mit farbigem FFT-Equalizer"
   homepage "https://github.com/CodeNinjaGuy/CLIRadio"
-  url "https://github.com/CodeNinjaGuy/CLIRadio/archive/refs/tags/v1.2.2.tar.gz"
-  sha256 "e6b795ca0b73da3953ce72ff61ee72d17c2da6665505cd1605cb2d9a6c25c625"
+  url "https://github.com/CodeNinjaGuy/CLIRadio/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "3cd93c59398650390f6f812f10a110bef178040eb8c1e6c8b76713daebb96d90"
   license "MIT"
   head "https://github.com/CodeNinjaGuy/CLIRadio.git", branch: "main"
 
